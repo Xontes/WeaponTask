@@ -1,0 +1,15 @@
+C:\Users\STP\Desktop\Tasks\Weapon\bin\Debug\net8.0\Weapon.exe
+C:\Users\STP\Desktop\Tasks\Weapon\bin\Debug\net8.0\Weapon.deps.json
+C:\Users\STP\Desktop\Tasks\Weapon\bin\Debug\net8.0\Weapon.runtimeconfig.json
+C:\Users\STP\Desktop\Tasks\Weapon\bin\Debug\net8.0\Weapon.dll
+C:\Users\STP\Desktop\Tasks\Weapon\bin\Debug\net8.0\Weapon.pdb
+C:\Users\STP\Desktop\Tasks\Weapon\obj\Debug\net8.0\Weapon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STP\Desktop\Tasks\Weapon\obj\Debug\net8.0\Weapon.AssemblyInfoInputs.cache
+C:\Users\STP\Desktop\Tasks\Weapon\obj\Debug\net8.0\Weapon.AssemblyInfo.cs
+C:\Users\STP\Desktop\Tasks\Weapon\obj\Debug\net8.0\Weapon.csproj.CoreCompileInputs.cache
+C:\Users\STP\Desktop\Tasks\Weapon\obj\Debug\net8.0\Weapon.sourcelink.json
+C:\Users\STP\Desktop\Tasks\Weapon\obj\Debug\net8.0\Weapon.dll
+C:\Users\STP\Desktop\Tasks\Weapon\obj\Debug\net8.0\refint\Weapon.dll
+C:\Users\STP\Desktop\Tasks\Weapon\obj\Debug\net8.0\Weapon.pdb
+C:\Users\STP\Desktop\Tasks\Weapon\obj\Debug\net8.0\Weapon.genruntimeconfig.cache
+C:\Users\STP\Desktop\Tasks\Weapon\obj\Debug\net8.0\ref\Weapon.dll
