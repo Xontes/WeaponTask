@@ -5,18 +5,7 @@
         static void Main(string[] args)
         {
             Weapon primaryWeapon1 = new Weapon("Bulldog", 24);
-            //primaryWeapon1.GetInfo();
-            //primaryWeapon1.Reload();
-            //primaryWeapon1.GetInfo();
-            //primaryWeapon1.Shoot();
-            //primaryWeapon1.Shoot();
-            //primaryWeapon1.Shoot();
-            //primaryWeapon1.GetInfo();
-            //primaryWeapon1.ChangeFireMode();
-            //primaryWeapon1.Shoot();
-            //primaryWeapon1.GetInfo();
-            //primaryWeapon1.Reload();
-            //primaryWeapon1.GetInfo();
+        
             while (true)
             {
                 Console.WriteLine("Enter a command:");
